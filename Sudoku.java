@@ -4,6 +4,7 @@ public class Sudoku {
     }
 
     public static int[][] loadSudokuFromFile(String fileName){
+        System.out.println("Start to load");
         return null;
     }
 
