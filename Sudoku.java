@@ -8,6 +8,8 @@ public class Sudoku {
     }
 
     public static boolean checkSolvedSudoku(int[][] sudoku){
+
+        System.out.println("Start to check ...");
         return false;
     }
 
